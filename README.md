@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Taiki Nonaka (xonaka)
+# About Hidehiro Ueno (xxhidexx)
 
 ## 📊 GitHub Stats & Activity
 
