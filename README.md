@@ -18,5 +18,3 @@
 ## 🛠️ Skills & Top Languages
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhidexx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" alt="Top Languages">
-<br>
-<img width="800" src="https://skillicons.dev/icons?i=html,css,python,bash,js,c,cpp,ruby,rails,php" alt="Skills">
