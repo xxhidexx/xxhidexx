@@ -10,7 +10,6 @@
   <img src="https://github-chart.vercel.app/api?user=xxhidexx" alt="xxhidexx's github chart">
 </a>
 
-
 ## 🏆 GitHub Trophies
 
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=xxhidexx&theme=algolia&column=9" alt="xxhidexx's GitHub Trophies">
